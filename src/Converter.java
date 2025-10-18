@@ -21,6 +21,7 @@ public class Converter {
 
         System.out.println(fahrenheit);
 
-
     }
 }
+
+//This file holds the conversion equations with a basic scanner test to know if they can work
